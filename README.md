@@ -1,0 +1,2 @@
+# social-media-and-misleading-information-in-a-democracy-a-mechanism-design-approach
+Developed an incentive-compatible resource allocation mechanism to promote efficient misinformation filtering among strategic social media platforms, considering government intervention and private impact knowledge. The mechanism ensures generalized Nash equilibrium, individual rationality, budget balance, and Pareto efficiency.
