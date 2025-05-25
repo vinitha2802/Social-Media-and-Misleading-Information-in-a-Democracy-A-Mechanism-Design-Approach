@@ -1,0 +1,27 @@
+Social Media and Misleading Information in a Democracy: A Mechanism Design Approach
+
+
+Social media, fake news, mechanism design,Nash-implementation
+
+Social_Mediaand_Misleading_Information
+
+
+social_mediaand_misleading_information
+
+
+
+Social_Media
+
+
+News_Data
+Prediction_LR
+Prediction_DT
+Prediction_RFC
+
+
+Models
+
+Social_Media,detection_ratio,detection_accuracy
+
+
+
